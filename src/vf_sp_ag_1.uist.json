@@ -7,5 +7,10 @@
   "generalInformation": {
     "title": "on B6S Space Tmpl. to test abapGit",
     "sortPriority": 1.0
-  }
+  },
+  "pages": [
+    {
+      "name": "VF_PG_AG_1"
+    }
+  ]
 }
