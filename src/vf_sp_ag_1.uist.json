@@ -1,16 +1,19 @@
 {
   "formatVersion": "1",
   "header": {
-    "description": "B6S/400 Space Tmpl. to test abapGit",
+    "description": "on B6S Space Tmpl. to test abapGit",
     "originalLanguage": "en"
   },
   "generalInformation": {
-    "title": "B6S/400 Space Tmpl. to test abapGit",
+    "title": "B6S Space Tmpl. to test abapGit",
     "sortPriority": 1.0
   },
   "pages": [
     {
       "name": "VF_PG_AG_1"
+    },
+    {
+      "name": "ZVF_PG_TEMPL"
     }
   ]
 }
